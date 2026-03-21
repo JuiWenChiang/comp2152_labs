@@ -1,2 +1,6 @@
 others
 .DS_Store
+
+audit.db
+login_tracker.db
+vault.db
